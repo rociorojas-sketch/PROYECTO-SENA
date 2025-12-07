@@ -9,3 +9,4 @@ float(input("Ingresa la tercera nota: ")) resultado = calcular_promedio(n1, n2, 
 print(f"\nEl promedio es: {resultado:.2f}") 
 if resultado >= 3.0: print("¡Felicidades! Has aprobado.") 
 else: print("Necesitas mejorar tus notas.")
+#cometario de prueba
